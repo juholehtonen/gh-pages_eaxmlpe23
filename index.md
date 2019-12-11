@@ -11,6 +11,7 @@ title: Example
 
 # News
 
+- New news
 - Some event
 - Another exciting event
 - More news
